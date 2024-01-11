@@ -36,12 +36,12 @@
                           {
                             "name":"CityVarsity:School of Media & Creative Arts",
                             "course":"Diploma in Film & Television Production Techniques",
-                            "year":2019 - 2020
+                            "year":"2019 - 2020"
                           },
                           {
                             "name":"Life Choices Coding Academy",
                             "course":"Fullstack Web Development Bootcamp",
-                            "year":2023 - 2024
+                            "year":"2023 - 2024"
                           }
                       ]
                   },
