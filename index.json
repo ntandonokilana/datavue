@@ -1,81 +1,138 @@
 {
-  "data",
-      [
-          {
-              "projects":[
-                  {
-                      "name":"Netflix",
-                      "github":"",
-                      "vercel":""
-                  },
-                  {},
-                  {}
-              ]
-          },
-          {
-              "testimonial":[
-                  {
-                      "name":"Ntando",
-                      "description":"",
-                      "job":"WebDeveloper"
-                  },
-                  {}
-              ]
-          },
-          {
-              "contact":[]
-          },
-          {
-              "resume":[
-                  {
-                      "education":[
-                          {
-                              "name":"Rhodes High School",
-                              "year":2017
-                          },
-                          {
-                            "name":"CityVarsity:School of Media & Creative Arts",
-                            "course":"Diploma in Film & Television Production Techniques",
-                            "year":"2019 - 2020"
-                          },
-                          {
-                            "name":"Life Choices Coding Academy",
-                            "course":"Fullstack Web Development Bootcamp",
-                            "year":"2023 - 2024"
-                          }
-                      ]
-                  },
-                  {
-                      "skills":[
-                          "HTML","CSS","addlinkstoimages"
-                      ]
-                  },
-                  {
-                      "workExp":[
-                          {
-                              "name":"TooMuchWiFi",
-                              "duties":"Customer service & Sales",
-                              "year": "2019 6 months"
-                          },
-                          {
-                              "name":"Takealot",
-                              "duties":"Customer Service agent",
-                              "year": "2020 2 months"
-                          },
-                          {
-                            "name":"Mr D Food",
-                            "duties":"Customer Service agent",
-                            "year":"2021-2022 1 year, 8 Months"
-                          },
-                          {
-                            "name":"EXL",
-                            "duties": "Customer Service Advisor",
-                            "year":"2023 8 months"
-                          }
-                      ]
-                  }
-              ]
-          }
-      ]
-}
+    "data":
+        [
+            {
+                "projects":[
+                    {
+                        "name":"Abantu Reads",
+                        "github":"https://github.com/ntandonokilana/AbantuReads2.git",
+                        "vercel":"https://abantu-reads2.vercel.app/"
+                    },
+                    {
+                       "name":"Calculator",
+                       "github":"https://github.com/ntandonokilana/Calculator.git",
+                       "vercel":"https://calculator-beta-umber.vercel.app/"
+                    },
+                    {
+                        "name":"To-do list",
+                        "github":"https://github.com/ntandonokilana/do-to-list.git",
+                        "vercel":"https://do-to-list-five.vercel.app/"
+                    },
+                    {
+                        "name":"Age to Days",
+                        "github":"https://github.com/ntandonokilana/AgeToDays.git",
+                        "vercel":"https://age-to-days-one.vercel.app/"
+                    },
+                    {
+                        "name":"Numbers Operations",
+                        "github":"https://github.com/ntandonokilana/minMax.git",
+                        "vercel":"https://min-max-swart.vercel.app/"
+                    },
+                    {
+                      "name":"Minutes to Seconds",
+                      "github":"https://github.com/ntandonokilana/MinToSec.git",
+                      "vercel":"https://min-sec-converter.vercel.app/"
+                    }
+                ]
+            },
+            {
+                "testimonials":[
+                    {
+                        "name":"Naeema Omar",
+                        "description":"Ntando is a determined and magnetic person, she holds herself and her work in high standard and therefore influences others to do the same. Her personality lights up a room and she makes others feel comfortable.",
+                        "job":"Web Developer",
+                        "url":"https://drive.google.com/file/d/1-yDG9AOn5qFKV5rDWnQ4QpOtV0UiREf5/view?usp=sharing"
+                    },
+                    {
+                        "name":"Tyeishah Johnson",
+                        "description":"Ntando is a determined and magnetic person, she holds herself and her work in high standard and therefore influences others to do the same. Her personality lights up a room and she makes others feel comfortable.",
+                        "job":"Colleague",
+                        "url":"https://drive.google.com/file/d/1qcI8xeffB9HgNTdL2B9hDPsW3yD5wu_S/view?usp=sharing"
+                    },
+                    {
+                        "name":"Thandeka Sineli",
+                        "description":"Ntando is good",
+                        "job":"Colleague/Web Developer",
+                        "url":"https://drive.google.com/file/d/154AqVN-9y1u2mX6cQ9-FEa_njj_BEVXw/view?usp=sharing"
+                    },
+                    {
+                        "name":"Heather Mtuedwa",
+                        "description":"I've had the pleasure of working with Ntando as both a colleague and friend, and she's truly exceptional. Ntando's work ethic is unmatched—she tackles every project with unwavering dedication, regardless of its complexity. As a friend, she's not only caring and honest but also remarkably dependable. Ntando consistently goes above and beyond, always ready to offer support whenever someone is in need. Her combination of professionalism and genuine kindness makes her an invaluable asset in both the workplace and personal relationships.",
+                        "job":"Web Developer/Colleague",
+                        "url":"https://drive.google.com/file/d/1A9bmzzXMeO_r9xwRGf-sM7TpPv4QF6Sf/view?usp=sharing"
+                    },
+                    {
+                        "namme":"Asithandile Tyulu",
+                        "description":"Nontando is an exceptionally dedicated colleague, known for her infectious and inspiring unwavering work ethic. Her commitment to excellence is not only evident in her consistent performance but also in her openness to feedback and continuous improvement. Nontando's unique blend of reflection and introspection not only sets her apart but also fosters a collaborative work environment where growth and excellence thrive.",
+                        "job":"Colleague/Web Developer",
+                        "url":"https://drive.google.com/file/d/1u9VyejAbALgcoZf64nieskOjmH5jQVfJ/view?usp=sharing"
+                    },
+                    {
+                        "name":"Matthew Brown",
+                        "description":"Ntando good",
+                        "job":"Lecturer",
+                        "url":""
+                    }
 
+                ]
+            },
+            {
+                "contact":[]
+            },
+            {
+                "resume":[
+                    {
+                        "education":[
+                            {
+                                "name":"Rhodes High School",
+                                "year":2017
+                            },
+                            {
+                              "name":"CityVarsity:School of Media & Creative Arts",
+                              "course":"Diploma in Film & Television Production Techniques",
+                              "year":"2019 - 2020"
+                            },
+                            {
+                              "name":"Life Choices Coding Academy",
+                              "course":"Fullstack Web Development Bootcamp",
+                              "year":"2023 - 2024"
+                            }
+                        ]
+                    },
+                    {
+                        "skills":[
+                            "HTML","CSS","addlinkstoimages", "Bootsrap", "JavaScript", "Vue.js"
+                        ]
+                    },
+                    {
+                        "workExp":[
+                            {
+                                "name":"TooMuchWiFi",
+                                "duties":"Customer service & Sales",
+                                "year": "2019 6 months"
+                            },
+                            {
+                                "name":"Takealot",
+                                "duties":"Customer Service agent",
+                                "year": "2020 2 months"
+                            },
+                            {
+                              "name":"Mr D Food",
+                              "duties":"Customer Service agent",
+                              "year":"2021-2022 1 year, 8 Months"
+                            },
+                            {
+                              "name":"EXL",
+                              "duties": "Customer Service Advisor",
+                              "year":"2023 8 months"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+  }
+  
+  
+  
+  
